@@ -35,7 +35,7 @@ Skills reference each other and build on shared context. The `product-marketing-
 │site-arch │ │onboard   │ │cold-email│ │ab-test     │ │churn-    │ │launch       │ │customer-  │
 │programm  │ │form-cro  │ │email-seq │ │analytics   │ │ prevent  │ │pricing      │ │ research  │
 │schema    │ │popup-cro │ │social    │ │            │ │community │ │comp-alts    │ │           │
-│content   │ │paywall   │ │          │ │            │ │lead-magnt│ │comp-profile │ │           │
+│content   │ │paywall   │ │image     │ │            │ │lead-magnt│ │comp-profile │ │           │
 │aso-audit │ │          │ │          │ │            │ │          │ │directory    │ │           │
 └────┬─────┘ └────┬─────┘ └────┬─────┘ └─────┬──────┘ └────┬─────┘ └──────┬──────┘ └─────┬─────┘
      │            │            │              │             │              │              │
@@ -73,6 +73,7 @@ See each skill's **Related Skills** section for the full dependency map.
 | [email-sequence](skills/email-sequence/) | When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email... |
 | [form-cro](skills/form-cro/) | When the user wants to optimize any form that is NOT signup/registration — including lead capture forms, contact forms,... |
 | [free-tool-strategy](skills/free-tool-strategy/) | When the user wants to plan, evaluate, or build a free tool for marketing purposes — lead generation, SEO value, or... |
+| [image](skills/image/) | When the user wants to create, generate, edit, or optimize images for marketing — blog heroes, social graphics, product mockups, profile banners, listing visuals, or brand assets... |
 | [launch-strategy](skills/launch-strategy/) | When the user wants to plan a product launch, feature announcement, or release strategy. Also use when the user... |
 | [lead-magnets](skills/lead-magnets/) | When the user wants to create, plan, or optimize a lead magnet for email capture or lead generation. Also use when the... |
 | [marketing-ideas](skills/marketing-ideas/) | When the user needs marketing ideas, inspiration, or strategies for their SaaS or software product. Also use when the... |
@@ -219,6 +220,7 @@ You can also invoke skills directly:
 - `cold-email` - B2B cold outreach emails and sequences
 - `email-sequence` - Automated email flows
 - `social-content` - Social media content
+- `image` - AI image generation, design tools, and optimization
 
 ### SEO & Discovery
 - `seo-audit` - Technical and on-page SEO
